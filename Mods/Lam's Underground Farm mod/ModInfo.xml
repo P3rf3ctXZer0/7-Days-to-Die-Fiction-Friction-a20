@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Lam's underground farm mod" />
+		<Description value="planted crops at stage 1 are made out of bedrock
+							so you can't accidently pick them up when you are punching your crops.
+							stage 2 and 3 are just like in vanilla made out of plant material
+							be aware that if you want to relocate your crops you can ONLY do so at stage 2
+							you can now also harvest POI farm blocks." />
+		<Author value="Lam" />
+		<Version value="19" />
+	</ModInfo>
+</xml>

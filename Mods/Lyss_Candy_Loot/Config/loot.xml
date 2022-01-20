@@ -1,0 +1,5 @@
+<Lyss>
+	<append xpath="/lootcontainers/lootgroup[@name='groupJunk']">
+		<item group="foodCandy" loot_prob_template="veryLow" force_prob="true"/>
+	</append>
+</Lyss>
