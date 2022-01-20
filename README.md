@@ -3,6 +3,6 @@
 
 Credit to all authors who made this possible. All I am doing is tweaking and archiving changes. I am not taking credit for prefabs etc. This is a personal usage and friends modpack.
 
-Authors
+Author Credits
 
 Michael Logue
