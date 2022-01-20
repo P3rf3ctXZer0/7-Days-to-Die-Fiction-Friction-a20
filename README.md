@@ -7,7 +7,7 @@ Setup - Disable EAC if you use the pack just password lock your server. This pac
 
 Author Credits
 
-Dizor
-Mackenziix
-Michael Logue
-Magedaddy
+-- Dizor
+-- Mackenziix
+-- Michael Logue
+-- Magedaddy
