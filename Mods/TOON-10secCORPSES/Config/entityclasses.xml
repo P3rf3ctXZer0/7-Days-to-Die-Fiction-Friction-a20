@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entity_classes>
+    <append xpath="/entity_classes/entity_class[@name='zombieTemplateMale']">
+        <property name="TimeStayAfterDeath" value="10"/>
+        <property name="DeadBodyHitPoints" value="1"/>
+    </append>
+</entity_classes>

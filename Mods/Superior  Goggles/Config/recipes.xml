@@ -1,0 +1,11 @@
+<config>
+	<append xpath="/recipes">
+	
+		<recipe name="Superior_Goggles" count="1" craft_time="100" craft_area="workbench" tags="learnable,workbenchCrafting">
+			<ingredient name="apparelAviatorGoggles" count="1"/>
+			<ingredient name="apparelNightvisionGoggles" count="1"/>
+			<ingredient name="apparelNerdGlasses" count="1"/>
+		</recipe>
+		
+	</append>
+</config>

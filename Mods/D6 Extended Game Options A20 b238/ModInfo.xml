@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Extended Game Options" />
+		<Description value="Extends the game slider settings" />
+		<Author value="Deadlee6" />
+		<Version value="a20 b238" />
+	</ModInfo>
+</xml>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="TOON-10secCORPSES" />
+		<Description value="Corpses dissapear after 10 instead of 300 seconds" />
+		<Author value="TOON from ZIP and macgyver16502's code by popular demand" />
+		<Version value="A20 v.1" />		
+	</ModInfo>
+</xml>
