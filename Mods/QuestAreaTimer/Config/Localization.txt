@@ -1,2 +1,0 @@
-Key,File,Type,NoTranslate,english,russian
-lblQuestAreaTimer,UI,Tooltip,Please return to the quest area!,Please return to the quest area!,"Пожалуйста, вернитесь в зону задания!"

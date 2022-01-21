@@ -1,7 +1,0 @@
-Key,UsedInMainMenu,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
-
-perkLivingOffTheLandRank1LongDesc,progression,perk For,,,"Harvest 1 more of wild and planted crops. \nCraft seeds for flowers and decorative plants like \ngoldenrod, chrysanthemum, aloe, and yucca.\nFarm plots cost 30% less to craft.",,
-perkLivingOffTheLandRank2LongDesc,progression,perk For,,,Harvest 2 more of planted crops. \nYou can craft seeds for berries and vegetables.\nFarm plots cost 50% less to craft.,,
-perkLivingOffTheLandRank3LongDesc,progression,perk For,,,"Harvest 2 more of wild crops and,\nHarvest 3 more of planted crops,\nYou can craft seeds for gracecorn.",,
-
-
