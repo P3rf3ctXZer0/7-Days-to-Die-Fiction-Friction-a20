@@ -1,0 +1,63 @@
+<configs>
+
+<append xpath="/blocks/block[@name='woodShapes']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='brickShapes']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='cobblestoneShapes']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='concreteShapes']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='steelShapes']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='awningShapes']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='corrugatedMetalShapes']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='frameShapes']"><property name="Stacknumber" value="50000"/></append>
+
+<append xpath="/blocks/block[@name='pipeLargeBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='pipeSmallBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='woodFenceRailingTrellisSheetBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='metalFenceRailingTrellisSheetBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='sectionalLeatherCouchSofaBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='sectionalPlaidCouchSofaBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='sandbagBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='glassBulletproofBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='glassBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='metalTrussingIBeamBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='cntWoodFurnitureBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='woodSignBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='sinksToiletsBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='metalFurnitureBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='farmPlotBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='shuttersWoodBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='shuttersIronBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='shuttersSteelBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='cntMailBox01VariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='cntMailBox02VariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='cntMailBox03VariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='rollUpDoor3x3VariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='rollUpDoor5x4VariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='rollUpDoor7x4VariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='chainLinkFencePOIVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='couchModernBlockVariantHelper']"><property name="Stacknumber" value="50000"/></append>
+
+<append xpath="/blocks/block[@name='woodWeakNoUpgradeMaster']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='woodNoUpgradeMaster']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='concreteNoUpgradeMaster']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='steelMaster']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='stoneNoUpgradeMaster']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='cobblestoneMaster']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='brickNoUpgradeMaster']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='corrugatedMetalNoUpgradeMaster']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='awningMaster']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='glassBulletproofMaster']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='cropsGrowingMaster']"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[@name='cropsHarvestableMaster']"><property name="Stacknumber" value="50000"/></append>
+
+<append xpath="/blocks/block[starts-with(@name,'decoEntity')]"><property name="Stacknumber" value="50000"/></append>
+<append xpath="/blocks/block[starts-with(@name,'terr')]"><property name="Stacknumber" value="50000"/></append>
+
+<set xpath="/blocks/block/property[@name='Stacknumber' and @value='3']/@value"> 50000 </set>
+<set xpath="/blocks/block/property[@name='Stacknumber' and @value='10']/@value"> 50000 </set>
+<set xpath="/blocks/block/property[@name='Stacknumber' and @value='20']/@value"> 50000 </set>
+<set xpath="/blocks/block/property[@name='Stacknumber' and @value='25']/@value"> 50000 </set>
+<set xpath="/blocks/block/property[@name='Stacknumber' and @value='33']/@value"> 50000 </set>
+<set xpath="/blocks/block/property[@name='Stacknumber' and @value='50']/@value"> 50000 </set>
+<set xpath="/blocks/block/property[@name='Stacknumber' and @value='200']/@value"> 50000 </set>
+
+</configs>

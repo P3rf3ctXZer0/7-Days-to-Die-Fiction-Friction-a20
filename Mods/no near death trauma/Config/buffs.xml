@@ -1,0 +1,7 @@
+<configs>
+
+<remove xpath="/buffs/buff[@name='buffNearDeathTraumaTrigger']"/>
+<remove xpath="/buffs/buff[@name='buffNearDeathTrauma']"/>
+<remove xpath="/buffs/buff[@name='buffNearDeathTraumaCalculate']"/>
+
+</configs>

@@ -1,0 +1,3 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+SuperiorGoggles,item_modifiers,items,,,Superior Goggles
+modSuperiorGogglesDesc,item_modifiers,Mod,,,"Allows the use of night vision while applying the lucky goggles and nerdy glasses buff.\nCrafting unlocked at level 5 Advanced Engineering."

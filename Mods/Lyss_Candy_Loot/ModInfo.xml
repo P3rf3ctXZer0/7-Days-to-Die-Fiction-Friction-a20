@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Lyss_Candy_Loot" />
+		<Description value="Adds candy to the junk loot so you can find it in the world and not just buy it." />
+		<Author value="Lyss" />
+		<Version value="A20" />
+	</ModInfo>
+</xml>
